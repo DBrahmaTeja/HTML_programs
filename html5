@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>mailing list </title>
+	<meta charset="utf-8">
+</head>
+<body>
+	<h1> Mailing list sign up</h1>
+	<form action ="https://www.google.com/search" method="get">
+		<fieldset>
+			<o1>
+				<li><p>Education completed:<input type="text" name="Education" list="edulevel">
+					<datalist id="edulevel">
+						<option value="High school">
+                        <option value="bachelors">
+                        	<option value="masters">
+                        		<option value="phD">
+</datalist>
+</li>
+
+		   	<input type="submit" name="submit">
+		   </o1>
+		</fieldset>
+	</form>
+</body>
+</html>
